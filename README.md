@@ -12,8 +12,8 @@ I have uploaded this in two parts/repository:
 Mapping URLs
 
 1) In BackEnd SpringBoot App
-  1.1) For PostMapping i used:  http://localhost:8080/api/v1/add-expense
-  1.2) For GetMapping i used:   http://localhost:8080/api/v1/find-all-record
+For PostMapping: http://localhost:8080/api/v1/add-expense
+and  For GetMapping: http://localhost:8080/api/v1/find-all-record
   
 2) In FronEnd Angular App
   2.1 Use (Default URL): http://localhost:4200/
