@@ -9,7 +9,7 @@ import lombok.ToString;
 @ToString
 public class ExpenseTracker {
 
-	//https://www.youtube.com/watch?v=G3IyZvR2VW0		//40:00
+	//https://youtu.be/G3IyZvR2VW0?t=3434
 	
 	@Id
 	private Integer id;
